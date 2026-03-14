@@ -1,2 +1,2 @@
-# TapID
+# ThriveNFC
 NFC Business Cards
